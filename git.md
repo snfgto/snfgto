@@ -101,6 +101,8 @@ $ git remote add origin git@github.com:michaelliao/learngit.git
 
 此后，每次本地提交后，只要有必要，就可以使用命令`git push origin master`推送最新修改。
 
+### 从远程库克隆
+
 ```
 $ git clone git@github.com:michaelliao/gitskills.git
 ```
